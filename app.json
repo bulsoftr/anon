@@ -1,14 +1,14 @@
 {
     "name": "SDMN Checker Bot",
-    "description": "A Telegram CC Checker Bot with hella lotta features.",
+    "description": "hella lotta features.",
     "logo": "https://pbs.twimg.com/profile_images/1252291883793027074/RfEhm8yV_400x400.jpg",
     "keywords": [
         "Telegram",
         "Bot",
         "Modular"
     ],
-    "website": "https://telegram.me/SDMN_CheckerBot",
-    "repository": "https://github.com/iam-NVN/SDMN_CheckerBot",
+    "website": "https://telegram.me/anoncheckerbot",
+    "repository": "https://github.com/bulsoftr/anon",
     "env": {
         "BOT_TOKEN": {
             "description": "Enter your Bot Token Here. Get it from @Botfather",
